@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/posts/e94a9901.html</loc>
+    <loc>https://nanci-sir.github.io/posts/bae8bafc.html</loc>
     
     <lastmod>2023-04-17</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/posts/bae8bafc.html</loc>
+    <loc>https://nanci-sir.github.io/posts/e94a9901.html</loc>
     
     <lastmod>2023-04-17</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/box/animation/index.html</loc>
+    <loc>https://nanci-sir.github.io/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/tags/index.html</loc>
+    <loc>https://nanci-sir.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/personal/about/index.html</loc>
+    <loc>https://nanci-sir.github.io/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -281,25 +281,7 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nanci-sir.github.io/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nanci-sir.github.io/life/games/index.html</loc>
+    <loc>https://nanci-sir.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -317,6 +299,15 @@
   </url>
   
   <url>
+    <loc>https://nanci-sir.github.io/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://nanci-sir.github.io/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -326,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/site/census/index.html</loc>
+    <loc>https://nanci-sir.github.io/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -335,7 +326,16 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/social/fcircle/index.html</loc>
+    <loc>https://nanci-sir.github.io/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nanci-sir.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -353,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/site/time/index.html</loc>
+    <loc>https://nanci-sir.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -382,14 +382,14 @@
 
   
   <url>
-    <loc>https://nanci-sir.github.io/categories/Hexo/</loc>
+    <loc>https://nanci-sir.github.io/categories/Java/</loc>
     <lastmod>2023-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://nanci-sir.github.io/categories/Java/</loc>
+    <loc>https://nanci-sir.github.io/categories/Hexo/</loc>
     <lastmod>2023-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
